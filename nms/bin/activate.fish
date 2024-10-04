@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/hackrider/Documents/DDBhari_code/DevlopmentEnv/Setup/nms"
+set -gx VIRTUAL_ENV "/Users/hackrider/Documents/DDBhari_code/DevlopmentEnv/network-tool/nms"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

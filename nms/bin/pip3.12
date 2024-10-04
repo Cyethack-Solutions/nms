@@ -1,4 +1,4 @@
-#!/Users/hackrider/Documents/DDBhari_code/DevlopmentEnv/Setup/nms/bin/python3.12
+#!/Users/hackrider/Documents/DDBhari_code/DevlopmentEnv/network-tool/nms/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
